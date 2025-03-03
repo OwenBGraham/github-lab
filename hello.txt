@@ -3,3 +3,5 @@ hello! created this file as a part of my cs2263 lab.
 making en edit to the file to use git status to check what happens
 
 making a third edit to the hello.txt file
+
+this edit was made on the browser to simulate a conflict
