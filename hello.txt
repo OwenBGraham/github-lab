@@ -5,3 +5,4 @@ making en edit to the file to use git status to check what happens
 making a third edit to the hello.txt file
 
 editing this now locally to simulate a conflict
+this edit was made on the browser to simulate a conflict
